@@ -1,0 +1,474 @@
+{
+  "college": {
+    "official_name": "Ramaiah Institute of Technology",
+    "former_name": "M. S. Ramaiah Institute of Technology",
+    "short_name": "MSRIT",
+    "acronym": "RIT",
+    "type": "Autonomous technical and management institution",
+    "established": "1962",
+    "founded_by": "Dr. M. S. Ramaiah",
+    "governing_foundation": "Gokula Education Foundation (Engineering)",
+
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "country": "India",
+      "address": "MSR Nagar, MSRIT Post, Bengaluru - 560054"
+    },
+
+    "website": "https://www.msrit.edu/",
+    "affiliation": "Visvesvaraya Technological University (VTU)",
+    "autonomous": true,
+    "academic_autonomy_since": "2007",
+
+    "approved_by": [
+      "AICTE"
+    ],
+
+    "accreditations": {
+      "NAAC": {
+        "grade": "A+",
+        "score": "3.28",
+        "accreditation_year": "2021"
+      },
+      "NBA": "Eligible academic programmes accredited under NBA"
+    },
+
+    "vision": "To be an Institution of International Eminence, renowned for imparting quality technical education, cutting edge research and innovation to meet global socio-economic needs.",
+
+    "mission": [
+      "Imparting quality technical education by nurturing a conducive learning environment through continuous improvement and customization.",
+      "Establishing research clusters in emerging areas in collaboration with globally reputed organizations.",
+      "Establishing innovative skills development, techno-entrepreneurial activities and consultancy for socio-economic needs."
+    ],
+
+    "values": [
+      "Quality & Excellence",
+      "Research & Innovation",
+      "Freedom of Expression",
+      "Ethics in Engineering",
+      "Constantly Updated Curriculum",
+      "Ever-Improving Infrastructure"
+    ],
+
+    "institutional_facts": {
+      "undergraduate_programmes": 18,
+      "postgraduate_programmes": 15,
+      "industrial_collaborations": {
+        "website_quick_fact": 60,
+        "current_homepage_text": 46
+      },
+      "average_publications_per_year": {
+        "website_quick_fact": 700,
+        "current_homepage_text": 350
+      },
+      "nirf_2025": {
+        "engineering_rank": 75,
+        "architecture_rank": 31
+      },
+      "naac": {
+        "grade": "A+",
+        "score": 3.28
+      },
+      "nba": {
+        "status": "All eligible academic programmes accredited under NBA"
+      }
+    },
+
+    "leadership": {
+      "principal": {
+        "name": "Dr. B. Sathish Babu",
+        "designation": "Principal",
+        "email": ""
+      },
+      "vice_principals": [
+        {
+          "name": "Dr. G. M. Madhu",
+          "designation": "Vice Principal"
+        },
+        {
+          "name": "Dr. Chandra Prabha M N",
+          "designation": "Vice Principal"
+        }
+      ],
+      "registrar": {
+        "name": "Dr. Bharti Ayer",
+        "designation": "Registrar",
+        "email": "registrar@msrit.edu"
+      },
+      "registrar_academic": {
+        "name": "Dr. Archana",
+        "designation": "Registrar (Academic)",
+        "email": "registrar_academic@msrit.edu"
+      },
+      "controller_of_examinations": {
+        "name": "Dr. G. S. Prakash",
+        "designation": "Controller of Examination",
+        "email": "coe@msrit.edu"
+      }
+    },
+
+    "contact": {
+      "main": {
+        "phone": [
+          "+91-80-23600822",
+          "+91-80-23606939"
+        ]
+      },
+      "principal": {
+        "email": "principal@msrit.edu",
+        "phone": "+91-80-23600822",
+        "extension": "304"
+      },
+      "admissions": {
+        "email": "admn@msrit.edu",
+        "phone": [
+          "+91-80-23607902",
+          "+91-80-23606934",
+          "+91-80-23600822"
+        ],
+        "extensions": [
+          "338",
+          "333"
+        ]
+      },
+      "registrar_academic": {
+        "email": "registrar_academic@msrit.edu"
+      },
+      "examination": {
+        "email": "coe@msrit.edu"
+      },
+      "website": "https://www.msrit.edu/"
+    },
+
+    "departments": [
+      {
+        "name": "Aerospace Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Artificial Intelligence & Data Science",
+        "hod": ""
+      },
+      {
+        "name": "Artificial Intelligence & Machine Learning",
+        "hod": ""
+      },
+      {
+        "name": "Biotechnology",
+        "hod": "Dr. M. N. Chandra Prabha"
+      },
+      {
+        "name": "Chemical Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Civil Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Computer Science & Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+        "hod": "Dr. Siddesh G M"
+      },
+      {
+        "name": "Computer Science & Engineering (Cyber Security)",
+        "hod": "Dr. Siddesh G M"
+      },
+      {
+        "name": "Electrical & Electronics Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Electronics & Communication Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Electronics & Instrumentation Engineering",
+        "hod": "Dr. G. Shivaprakash"
+      },
+      {
+        "name": "Electronics & Telecommunication Engineering",
+        "hod": "Dr. Vishwanath Talasila"
+      },
+      {
+        "name": "Industrial Engineering & Management",
+        "hod": "Dr. G. S. Prakash"
+      },
+      {
+        "name": "Information Science & Engineering",
+        "hod": "Dr. Anita Kanavalli"
+      },
+      {
+        "name": "Mechanical Engineering",
+        "hod": ""
+      },
+      {
+        "name": "Medical Electronics Engineering",
+        "hod": "Dr. C. K. Narayanappa"
+      },
+      {
+        "name": "School of Architecture",
+        "hod": "Dr. Rajshekhar Rao"
+      },
+      {
+        "name": "Physics",
+        "hod": "Dr. A. Jagannatha Reddy"
+      },
+      {
+        "name": "Chemistry",
+        "hod": "Dr. Nagaraju Kottam"
+      },
+      {
+        "name": "Mathematics & Humanities",
+        "hod": "Dr. N. L. Ramesh"
+      },
+      {
+        "name": "Computer Applications",
+        "hod": "Dr. S. Ajitha"
+      },
+      {
+        "name": "Management Studies",
+        "hod": "Dr. Deepak R"
+      }
+    ],
+
+    "undergraduate": {
+      "duration": {
+        "BE": "4 years",
+        "BArch": "5 years"
+      },
+      "programmes": [
+        "Aerospace Engineering",
+        "Artificial Intelligence & Data Science",
+        "Artificial Intelligence & Machine Learning",
+        "Biotechnology",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Computer Science & Engineering",
+        "Computer Science & Engineering (Artificial Intelligence & Machine Learning)",
+        "Computer Science & Engineering (Cyber Security)",
+        "Electrical & Electronics Engineering",
+        "Electronics & Communication Engineering",
+        "Electronics & Instrumentation Engineering",
+        "Electronics & Telecommunication Engineering",
+        "Industrial Engineering & Management",
+        "Information Science & Engineering",
+        "Mechanical Engineering",
+        "Medical Electronics Engineering",
+        "Architecture"
+      ]
+    },
+
+    "postgraduate": {
+      "MTech": [
+        "Aerospace Engineering",
+        "Artificial Intelligence",
+        "Biotechnology",
+        "Computer Network Engineering",
+        "Computer Science & Engineering",
+        "Data Sciences",
+        "Digital Electronics & Communication",
+        "IoT & Sensor Systems",
+        "Robotics & Artificial Intelligence",
+        "Structural Engineering",
+        "VLSI Design & Embedded Systems"
+      ],
+      "MArch": [
+        "Landscape Architecture",
+        "Advanced Architecture"
+      ],
+      "MBA": {
+        "duration": "2 years"
+      },
+      "MCA": {
+        "duration": "2 years"
+      }
+    },
+
+    "research": {
+      "programmes": [
+        "Ph.D.",
+        "M.Sc. (Engg.)"
+      ],
+      "doctoral_departments": [
+        "Civil Engineering",
+        "Biotechnology",
+        "Chemical Engineering",
+        "Medical Electronics Engineering",
+        "Electronics & Communication Engineering",
+        "Electrical & Electronics Engineering",
+        "Electronics & Telecommunication Engineering",
+        "Industrial Engineering & Management",
+        "Mechanical Engineering",
+        "Computer Science & Engineering",
+        "Information Science & Engineering",
+        "Management Studies",
+        "Computer Applications",
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ],
+      "research_centres": [
+        "Biotechnology",
+        "Chemical Engineering",
+        "Civil Engineering",
+        "Computer Science & Engineering",
+        "Electrical & Electronics Engineering",
+        "Electronics & Communication Engineering",
+        "Electronics & Telecommunication Engineering",
+        "Industrial Engineering & Management",
+        "Information Science & Engineering",
+        "Mechanical Engineering",
+        "Medical Electronics Engineering",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "MBA",
+        "MCA"
+      ]
+    },
+
+    "clubs": {
+      "music": [
+        "Indian Music Team",
+        "Western Music Team"
+      ],
+      "dance": [
+        "TNT",
+        "Lasya",
+        "Prayaag"
+      ],
+      "theatre": [
+        "Theatrix",
+        "Chiraranga"
+      ],
+      "literature": [
+        "DEBSOC"
+      ],
+      "additional": [
+        "TEDxMSRIT"
+      ]
+    },
+
+    "sports": {
+      "department": "Physical Education / Sports",
+      "sports_coaches": {
+        "basketball": "Sachin S Belvadi",
+        "cricket": "Rahul Menon",
+        "volleyball": "Balaji B A",
+        "hockey": "A E Brient",
+        "football": "Arvind Williams"
+      },
+      "sports_facilities": {
+        "indoor_outdoor_games": true,
+        "gym": true
+      }
+    },
+
+    "hostel": {
+      "boys_hostel": {
+        "available": true,
+        "rooms": [
+          "Single occupancy",
+          "Double occupancy"
+        ],
+        "facilities": [
+          "Attached/common bathrooms",
+          "Hot water",
+          "Furniture",
+          "Dining halls",
+          "Vegetarian mess",
+          "Free laundry",
+          "Ironing service",
+          "Recreation halls",
+          "Indoor games",
+          "Outdoor games",
+          "Night canteen",
+          "Health centre",
+          "24-hour security",
+          "Guest room",
+          "Wi-Fi",
+          "CCTV surveillance"
+        ],
+        "mess_timings": {
+          "breakfast": "7:30 AM - 9:30 AM",
+          "lunch": "12:00 PM - 2:15 PM",
+          "snacks_tea": "4:30 PM - 5:30 PM",
+          "dinner": "7:30 PM - 9:30 PM"
+        }
+      },
+      "chief_warden": {
+        "name": "Dr. A. Jagannatha Reddy"
+      },
+      "hostel_email": "hostel@msrit.edu",
+      "hostel_phone": "080-23600003"
+    },
+
+    "proctorial_system": {
+      "purpose": [
+        "Academic support",
+        "Administrative support",
+        "Student counselling",
+        "Monitoring academic progress",
+        "Parent communication"
+      ],
+      "structure": {
+        "chief_proctor": true,
+        "deputy_chief_proctor_per_department": true,
+        "faculty_as_proctors": true
+      },
+      "approximate_students_per_proctor": "20-25",
+      "student_information_record": {
+        "includes": [
+          "Course registration",
+          "Course dropping",
+          "Withdrawal",
+          "Re-registration",
+          "Proctor-student meetings",
+          "Semester examination performance"
+        ]
+      }
+    },
+
+    "student_information_system": {
+      "name": "Contineo e-sutra"
+    },
+
+    "examination": {
+      "controller": {
+        "name": "Dr. G. S. Prakash",
+        "email": "coe@msrit.edu"
+      },
+      "supporting_roles": [
+        "Deputy Controller of Examinations"
+      ],
+      "systems": [
+        "Examination System",
+        "Contineo",
+        "Results"
+      ],
+      "documentation": [
+        "Instructions & Scheme for Paper Setter",
+        "Template for Scheme & Solutions",
+        "M.Tech Dissertation Certification Format",
+        "Malpractice Manual"
+      ]
+    },
+
+    "facilities": [
+      "Boys Hostel",
+      "Gym",
+      "Sports facilities",
+      "Health Centre",
+      "Laboratories",
+      "Research Centres",
+      "Centres of Excellence",
+      "Library / Digital Library",
+      "Student Information System"
+    ]
+  }
+}
